@@ -1,6 +1,5 @@
 # Text-Summarization-using-NLP
 
-# Text Summarization using NLP
 
 This project implements a Text Summarization tool using Natural Language Processing (NLP) techniques. The tool processes input text from various sources, calculates the Term Frequency-Inverse Document Frequency (TF-IDF) for words, scores sentences, and generates a summary based on the sentence scores.
 
