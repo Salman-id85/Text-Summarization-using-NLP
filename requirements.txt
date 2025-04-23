@@ -1,0 +1,8 @@
+sys
+math
+bs4
+urllib3
+re
+PyPDF2
+nltk
+spacy
